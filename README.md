@@ -50,7 +50,9 @@ Original notebook: [Google Colab Link](https://colab.research.google.com/drive/1
 
 ## 📂 File Structure
 ├── 📄 spending_income_segmentation_model_using_k_means.py  # Main script using K-Means clustering
+
 ├── 📄 Mall_Customers.csv                                   # Dataset file (if included)
+
 └── 📄 README.md                                             # Project documentation
 
 ## 👨‍💻 Author
