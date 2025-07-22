@@ -30,7 +30,7 @@ The script performs unsupervised learning on the `Mall_Customers.csv` dataset to
 
 ## 📌 Dataset
 
-The dataset used is `Mall_Customers.csv`, containing details such as customer ID, gender, age, annual income, and spending score.
+The dataset used is [`Mall_Customers.csv`](https://www.kaggle.com/datasets/shwetabh123/mall-customers), containing details such as customer ID, gender, age, annual income, and spending score.
 
 ## 📷 Output
 
@@ -49,12 +49,13 @@ The final output includes:
 Original notebook: [Google Colab Link](https://colab.research.google.com/drive/1YYt4Lo3vvYOyKuAkE3DN0SdzAei-EtQW)
 
 ## 📂 File Structure
+
+```plaintext
+📁 spending-income-segmentation
 ├── 📄 spending_income_segmentation_model_using_k_means.py  # Main script using K-Means clustering
-
 ├── 📄 Mall_Customers.csv                                   # Dataset file (if included)
-
 └── 📄 README.md                                             # Project documentation
-
+```
 ## 👨‍💻 Author
 
 Uploaded by Shobhit Kumar, part of a machine learning mini-project for data analysis and clustering. Connect with me on [LinkedIn](https://www.linkedin.com/in/shobhit-kumar-iitd/).
