@@ -61,5 +61,3 @@ Original notebook: [Google Colab Link](https://colab.research.google.com/drive/1
 Uploaded by Shobhit Kumar, part of a machine learning mini-project for data analysis and clustering. Connect with me on [LinkedIn](https://www.linkedin.com/in/shobhit-kumar-iitd/).
 
 ---
-
-Feel free to update with your actual name or LinkedIn link.
